@@ -47,7 +47,7 @@ directory — that is all it has to do; the house reads the video itself through
 mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 ```
 
-`VIDEO.json` holds the video's YouTube address (`{"url": "https://www.youtube.com/shorts/<id>"}`).
+`VIDEO.json` holds the video's YouTube address (`{"url": "https://www.youtube.com/shorts/WqM2mlWFoBs"}`).
 It currently holds a placeholder: replace it with the uploaded video's real address and re-commit
 before submitting.
 
